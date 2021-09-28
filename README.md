@@ -71,3 +71,20 @@ return [
     ],
 ];
 ```
+
+## Run initializing migrations
+
+    php yii migrate
+
+## Site extensions set example
+
+For creating full-featured customizable cms-like site with admin-panel and page templates, you can
+use this set of extensions:
+
+* [andrewdanilov/yii2-admin-panel](https://github.com/AndrewDanilov/yii2-admin-panel)
+* [andrewdanilov/yii2-site-data](https://github.com/AndrewDanilov/yii2-site-data)
+* [andrewdanilov/yii2-custom-pages](https://github.com/AndrewDanilov/yii2-custom-pages)
+
+If you creating shop, add this extension to that set:
+
+* [andrewdanilov/yii2-shop](https://github.com/AndrewDanilov/yii2-shop)
