@@ -74,6 +74,8 @@ return [
 
 ## Run initializing migrations
 
+If you use database in your app, you may want to run initalizing migrations
+
     php yii migrate
 
 ## Site extensions set example
